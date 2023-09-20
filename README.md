@@ -27,7 +27,8 @@ This tutorial outlines the setup and installation of the open-source help desk t
 <h2>Setup Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EIlF89Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J0QcGmd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First, I needed to create admin roles. I created a supreme admin role that would have access to all components of osticket. This role will need to be assigned to a department, so I created one named "System Adminstrators". Finally, I created teams for the potential agents; Level I support and Level II support.
@@ -35,7 +36,7 @@ First, I needed to create admin roles. I created a supreme admin role that would
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uIjR2Sx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, I allowed anyone to create tickets and removed "require registration" in the user settings. 
@@ -43,7 +44,8 @@ Next, I allowed anyone to create tickets and removed "require registration" in t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FBtNbbI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/baYfki3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Then, I created my agents and users. One agent was assign to the supreme admin role and the other was a standard employee. I created two users to submit tickets to these agents.
@@ -51,7 +53,7 @@ Then, I created my agents and users. One agent was assign to the supreme admin r
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kqwlzpJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I configured SLA and created three levels to the importance of tickets that are submitted. Sev-A would have a timeframe of 1 hour to be serviced on a 24/7 schedule. Sev-B would have a timeframe of 4 hours to be serviced on a 24/7 schedule. Sev-C would have a timeframe of 8 hours to be serviced during business hours. 
@@ -59,7 +61,7 @@ I configured SLA and created three levels to the importance of tickets that are 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/adgoBXj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lastly, I configured help topics to categorize tickets. I added Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset.
