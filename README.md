@@ -22,7 +22,7 @@ This tutorial outlines the setup and installation of the open-source help desk t
 - Allow anyone to create tickets
 - Configure agents and users
 - Configure SLA
-- COnfigure Help Topics
+- Configure Help Topics
 
 <h2>Setup Steps</h2>
 
@@ -31,7 +31,7 @@ This tutorial outlines the setup and installation of the open-source help desk t
 <img src="https://i.imgur.com/J0QcGmd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First, I needed to create admin roles. I created a supreme admin role that would have access to all components of osticket. This role will need to be assigned to a department, so I created one named "System Adminstrators". Finally, I created teams for the potential agents; Level I support and Level II support.
+First, I needed to create admin roles. I created a supreme admin role that would have access to all components of osticket. This role will need to be assigned to a department, so I created a department named "System Adminstrators". Finally, I created teams for the potential agents; Level I support and Level II support.
 </p>
 <br />
 
